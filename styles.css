@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Wallpoet&display=swap');
+
+.grow:hover {
+    transform: scale(1.3);
+
+
+
+
+}
+
+body {
+    background-image: url('images/htmlColor.png');
+    text-align: center;
+        font-family: 'Wallpoet', cursive;
+        color:white;
+
+}
+
+
+
+#banner {
+    width: 500px;
+    margin: auto;
+    border: 3px solid;
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+    background-color: ;
+    border: solid lightblue 4px;
+    border-radius: 4px 4px;
+}
+
+.wrapper {
+    display: flex;
+    align-items: flex-end;
+    width: 100%;
+    border: solid lightblue 4px;
+     justify-content: space-around;
+}
+
+#nav {
+    white-space: nowrap;
+    text-align: center;
+
+}
+
+#main {
+   width: 200px;
+    margin: auto;
+    border: 3px solid;
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+    background-color: ;
+    border: solid lightblue 4px;
+    border-radius: 4px 4px;
+}
+
+.footer {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Wallpoet', cursive;
+    color: ;
+    font-size: 20px;
+    text-transform: uppercase;
+    border: solid black 2px;
+    padding-top: 3px;
+}
+
+#side {
+    width: ;
+}
+
+.image-container {
+    display: flex;
+    justify-content: space-around;
+    align-content:flex-start;
+   
+
+}
+.quicklinks{
+        font-family: 'Wallpoet', cursive;
+        font-size:11px;
+    }
+
+
+img {
+    margin-left: 30px;
+}
